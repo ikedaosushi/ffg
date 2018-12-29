@@ -12,4 +12,4 @@ fisher add ikedaosushi/ffg
 | --------------- | ----------------------------------------------- |
 | Ctrl-c          | git checkout local branch                                   |
 | Ctrl-o          | git checkout local commit                |
-| Ctrl-e          | git checkout -b remote branch |
+| Alt-e           | git checkout -b remote branch |
